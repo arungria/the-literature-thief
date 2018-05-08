@@ -1,0 +1,174 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arungria.github.io" resolutions="1x" timestamp="1525820395514">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="155512823" ref="last_of_all_the_story:beginning_2:index:beginning:library5k:beginning_3:starting:library6w:library6p:library:library3n:library7uyt:library3s:library4q:library_points:writers:last_all_points:library2f:library5c:last_page:starting_points:journey:library4x"/>
+    <file name="last_of_all_the_story.css" crc="4187940062" ref="last_of_all_the_story"/>
+    <file name="beginning_2.css" crc="3966185582" ref="beginning_2"/>
+    <file name="index.css" crc="496901100" ref="index"/>
+    <file name="beginning.css" crc="263975750" ref="beginning"/>
+    <file name="library5k.css" crc="501545194" ref="library5k"/>
+    <file name="beginning_3.css" crc="306177487" ref="beginning_3"/>
+    <file name="starting.css" crc="4259196798" ref="starting"/>
+    <file name="library6w.css" crc="3835345157" ref="library6w"/>
+    <file name="library6p.css" crc="127169196" ref="library6p"/>
+    <file name="library.css" crc="4107353830" ref="library"/>
+    <file name="library3n.css" crc="435212971" ref="library3n"/>
+    <file name="library7uyt.css" crc="4287238451" ref="library7uyt"/>
+    <file name="library3s.css" crc="260170741" ref="library3s"/>
+    <file name="library4q.css" crc="32537658" ref="library4q"/>
+    <file name="library_points.css" crc="3986813949" ref="library_points"/>
+    <file name="writers.css" crc="286427334" ref="writers"/>
+    <file name="last_all_points.css" crc="31342203" ref="last_all_points"/>
+    <file name="library2f.css" crc="4033003575" ref="library2f"/>
+    <file name="library5c.css" crc="4137256769" ref="library5c"/>
+    <file name="last_page.css" crc="502681763" ref="last_page"/>
+    <file name="starting_points.css" crc="242032075" ref="starting_points"/>
+    <file name="journey.css" crc="4138534111" ref="journey"/>
+    <file name="library4x.css" crc="112205374" ref="library4x"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+    <file name="museutils.js" crc="340535759" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+    <file name="whatinput.js" crc="86476730" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+    <file name="museconfig.js" crc="310584261" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+    <file name="require.js" crc="7928878" ref="index:beginning:library:beginning_2:journey:beginning_3:starting:starting_points:writers:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt:library_points:last_page:last_all_points:last_of_all_the_story"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="192047725" ref="index"/>
+    <file name="noface.jpg" crc="4255832500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="detective.jpg" crc="3872828102" seo="true" ref="beginning:beginning_2:beginning_3">
+      <caption webpage="beginning" alt=""/>
+      <caption webpage="beginning_2" alt=""/>
+      <caption webpage="beginning_3" alt=""/>
+    </file>
+    <file name="eye.png" crc="3867775660" seo="true" ref="beginning:starting:last_page">
+      <caption webpage="beginning" alt=""/>
+      <caption webpage="starting" alt=""/>
+      <caption webpage="last_page" alt=""/>
+    </file>
+    <file name="find_objects.jpg" crc="4151503938" seo="true" ref="library:library2f:library3n:library3s:library4x:library4q:library5c:library5k:library6p:library6w:library7uyt">
+      <caption webpage="library" alt=""/>
+      <caption webpage="library2f" alt=""/>
+      <caption webpage="library6p" alt=""/>
+      <caption webpage="library5c" alt=""/>
+      <caption webpage="library4x" alt=""/>
+      <caption webpage="library3s" alt=""/>
+      <caption webpage="library3n" alt=""/>
+      <caption webpage="library4q" alt=""/>
+      <caption webpage="library5k" alt=""/>
+      <caption webpage="library6w" alt=""/>
+      <caption webpage="library7uyt" alt=""/>
+    </file>
+    <file name="books.jpg" crc="3902581377" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="morebooks.jpg" crc="282120553" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="papersfloor.jpg" crc="202723867" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="q1.png" crc="173141818" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="q3.png" crc="4144738060" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="q2.png" crc="3925321674" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="q4.png" crc="219044111" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="definitions_literature.jpg" crc="3822977199" seo="true" ref="starting">
+      <caption webpage="starting" alt=""/>
+    </file>
+    <file name="badge2.png" crc="4067168274" seo="true" ref="starting_points">
+      <caption webpage="starting_points" alt=""/>
+    </file>
+    <file name="room.jpg" crc="257684485" seo="true" ref="writers">
+      <caption webpage="writers" alt=""/>
+    </file>
+    <file name="u1296-4.png" crc="4004619946" ref="writers"/>
+    <file name="u1338-4.png" crc="254533428" ref="writers"/>
+    <file name="u1303-4.png" crc="3878825991" ref="writers"/>
+    <file name="u1307-4.png" crc="432574253" ref="writers"/>
+    <file name="u1310-4.png" crc="3891158661" ref="writers"/>
+    <file name="u1317-4.png" crc="3922904144" ref="writers"/>
+    <file name="u1314-4.png" crc="3769985736" ref="writers"/>
+    <file name="u1326-4.png" crc="369557890" ref="writers"/>
+    <file name="u1334-4.png" crc="230534905" ref="writers"/>
+    <file name="u1323-4.png" crc="3881285509" ref="writers"/>
+    <file name="u1341-4.png" crc="71352461" ref="writers"/>
+    <file name="u1360-4.png" crc="3832009904" ref="writers"/>
+    <file name="u1349-4.png" crc="302875224" ref="writers"/>
+    <file name="u1460-4.png" crc="474604657" ref="writers"/>
+    <file name="u1353-4.png" crc="4103344386" ref="writers"/>
+    <file name="u1356-4.png" crc="4255120592" ref="writers"/>
+    <file name="u1346-4.png" crc="3861245650" ref="writers"/>
+    <file name="u1449-4.png" crc="3845826978" ref="writers"/>
+    <file name="u1300-4.png" crc="4242564667" ref="writers"/>
+    <file name="u1453-4.png" crc="245948544" ref="writers"/>
+    <file name="u1456-4.png" crc="132901521" ref="writers"/>
+    <file name="u1331-4.png" crc="4024368421" ref="writers"/>
+    <file name="library.jpg" crc="81939230" seo="true" ref="writers">
+      <caption webpage="writers" alt=""/>
+    </file>
+    <file name="fict.png" crc="167546533" seo="true" ref="library2f">
+      <caption webpage="library2f" alt=""/>
+    </file>
+    <file name="drama.png" crc="362914489" seo="true" ref="library3s">
+      <caption webpage="library3s" alt=""/>
+    </file>
+    <file name="tales_p.png" crc="473209087" seo="true" ref="library4q">
+      <caption webpage="library4q" alt=""/>
+    </file>
+    <file name="nonfiction.png" crc="90277139" seo="true" ref="library5k">
+      <caption webpage="library5k" alt=""/>
+    </file>
+    <file name="poetry.png" crc="389108348" seo="true" ref="library6w">
+      <caption webpage="library6w" alt=""/>
+    </file>
+    <file name="badge1.png" crc="4133218831" seo="true" ref="library_points">
+      <caption webpage="library_points" alt=""/>
+    </file>
+    <file name="lock.jpg" crc="156643187" seo="true" ref="last_page">
+      <caption webpage="last_page" alt=""/>
+    </file>
+    <file name="badge3.png" crc="3938060843" seo="true" ref="last_all_points">
+      <caption webpage="last_all_points" alt=""/>
+    </file>
+    <file name="detective recovery.png" crc="3835187341" seo="true" ref="last_of_all_the_story">
+      <caption webpage="last_of_all_the_story" alt=""/>
+    </file>
+    <file name="newspaper.jpg" crc="251757292" seo="true" ref="last_of_all_the_story">
+      <caption webpage="last_of_all_the_story" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3907286570" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="beginning.html" crc="421356479" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library.html" crc="354329955" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="beginning_2.html" crc="4146645560" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="journey.html" crc="3882597966" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="beginning_3.html" crc="179638737" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="starting.html" crc="255391042" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="starting_points.html" crc="349533121" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="writers.html" crc="4030658849" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library2f.html" crc="4203223664" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library3n.html" crc="3867029730" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library3s.html" crc="4210810644" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library4x.html" crc="3775139233" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library4q.html" crc="314208817" seo="true" mt="1525820075263" redirect="true"/>
+  <file name="library5c.html" crc="21092827" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library5k.html" crc="3943430689" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library6p.html" crc="164768670" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library6w.html" crc="270397049" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library7uyt.html" crc="3930388964" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="library_points.html" crc="310199510" seo="true" mt="1525820195496" redirect="true"/>
+  <file name="last_page.html" crc="266447387" seo="true" mt="1525819589504" redirect="true"/>
+  <file name="last_all_points.html" crc="3924324378" seo="true" mt="1525820299434" redirect="true"/>
+  <file name="last_of_all_the_story.html" crc="3937822196" seo="true" mt="1525820340853" redirect="true"/>
+</manifest>
